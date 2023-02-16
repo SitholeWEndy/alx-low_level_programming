@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-i/**
- *main - A program line function," followed by a new line.
+/**
+ * main - prints "with proper grammar, but the ouutcome is
+ * a piece of art," followed newline
  * Return: 0 (Success)
+ *
  */
 
 int main(void)
